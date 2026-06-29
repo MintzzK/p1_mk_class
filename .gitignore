@@ -1,0 +1,13 @@
+#is me wo sab jayega jo hum git par nahi daal sakte like passwords erc
+.env
+.vscode
+
+
+*.pyc   #runtime ke dauraan jo python ke cache bante hai unhe hume github pe store karne ki zaroorat nahi
+.DS_Store
+_pycache_
+venv/
+
+.streamlit/   #all the environment variables are stored in streamlit folder rather than env folder
+
+dist/
