@@ -1,16 +1,24 @@
 # Utilities
+# streamlit ko upar rakho kyunki most of the time agar ye bohot neeche hota hai to deployment fail ho jati hai
+# core
+streamlit
+setuptools
+# ML/Data  
 pandas
 numpy
-#Face Recognition
 scikit-learn
+# face_recognition
+face_recognition_models
 dlib-bin
 git+https://github.com/ageitgey/face_recognition_models #used for face recognition
 
-# database
+# database/ security
 supabase
 bcrypt
-
+# QR/image
 segno
 pillow
 
-streamlit
+# Voice recognition
+librosa  #editing the voice -cut , separating voice, tune etc
+resemblyzer  #creates voice embedding so that ML ka  use karke hum diff kar paye kisi ki voice hai
