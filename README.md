@@ -1,1 +1,1 @@
-﻿# prj1_mk_class
+﻿Smart biometric attendance system using voice and face recognition
