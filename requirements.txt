@@ -2,7 +2,7 @@
 # streamlit ko upar rakho kyunki most of the time agar ye bohot neeche hota hai to deployment fail ho jati hai
 # core
 streamlit
-setuptools
+setuptools<70.0.0
 # ML/Data  
 pandas
 numpy
