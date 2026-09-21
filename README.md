@@ -1,1 +1,1 @@
-﻿Smart biometric attendance system using voice and face recognition
+Biometric Multi-Modal Authentication & Attendance System
